@@ -4,4 +4,4 @@ A Swiggy Data Analysis Dashboard provides insights into order trends, customer b
 Author : Varun Kumar Sinha
 
 
-![Swiggy Dashboard](https://github.com/user-attachments/assets/ea1da4f7-fe8e-4469-98e5-e6b5128a6ef4)
+![Swiggy Dashboard](https://github.com/user-attachments/assets/328b8465-1a2d-48d7-bf88-2626fc16a9dc)
